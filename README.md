@@ -9,6 +9,8 @@ clustering as well as word vectorization and bag of words natural language proce
 like that, as playing with the data was the more interesting part.  There were also a lot of missing entires in the data, so filling in
 zipcodes/city based on latitude and longitude coordinates was necessary, for example.
 
+Even though I didn't do any optimization, the final predictions of the Log price are fairly decent, an RMSE of 0.4.
+
 
 Taxi_Predict
 
