@@ -10,7 +10,8 @@ like that, as playing with the data was the more interesting part.  There were a
 zipcodes/city based on latitude and longitude coordinates was necessary, for example.
 
 
-Taxi_Trip
+Taxi_Predict
+
 Predicting taxi ride durations in New York City.
 
 The data from Kaggle including the training and test sets used can be found at https://www.kaggle.com/c/nyc-taxi-trip-duration/data
